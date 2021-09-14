@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.banner-img{
+    background-image: url(img/img\ \(1\).jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.header-text{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+.logo{
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+    line-height: 100px;
+    margin-right: 400px;
+    
+}
+
+.time{
+    margin-left: 50px;
+    color: white;
+    display: flex;
+    margin-top: 30px;
+    
+}
+.time2{
+    font-size: 30px;
+    line-height: 100px;
+    margin-left: 60px;
+    color: teal;
+    
+}
+.time2 .fab{
+    margin-left: 15px;
+}
+
+.fa-clock{
+    font-size: 30px;
+}
+.fa-phone-alt{
+    font-size: 30px;
+}
+
+.manu-bar{
+    background-color: rgba(247, 247, 247, 0.2);
+    height: 60px;
+    width: 95%;
+    margin-left: 34px;
+    
+}
+.b-bar{
+    background-color: teal;
+    height: 60px;
+    width: 300px;
+    transform:skewX(20deg);
+    position: relative;
+    float: right;
+    
+}
+.b-bar h5{
+    line-height: 60px;
+    font-size: 26px;
+    color: white;
+    text-align: center;
+
+}
+ul{
+    display: flex;
+    margin-left: 60px;
+    list-style: none;
+    text-decoration: none;
+}
+li{
+    margin-left: 20px;
+    line-height: 60px;
+}
+a{
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+.container1{
+    display: flex;
+    margin-top: 20px;
+    height: 550px;
+    background-color: lavender;
+}
+.content1{
+    width: 90%;
+}
+.content1 h4{
+    color: teal;
+    margin-top: 15px;
+}
+.content1 h1{
+    font-size: 36px;
+    margin: 5px 0;
+}
+.data{
+    width: 80%;
+    background-color: white;
+    margin: 15px 0;
+    padding: 10px;
+}
+.fas{
+    font-size: 40px;
+    color: teal;
+}
+p{
+    text-align: justify;
+}
+
+
+.bannar-img{
+    margin-top: 10px;
+    background-image: url(img/3.jpg);
+    background-size: cover;
+    height: 300px;
+    
+}
+.bb-text{
+    float: left;
+    text-align: center;
+    margin-top: 8%;
+    margin-left: 175px;
+}
+.far{
+    font-size: 40px;
+    color: teal;
+}
+h5{
+    color: white;
+    text-transform: uppercase;
+}
+.h{
+    color: white;
+    font-size: 36px;
+}
+
+.container3{
+    height: 490px;
+    background-color: lavender;
+    background-size: cover;
+    
+}
+.content3{
+    margin-left: 80px;
+}
+h4{
+    text-align: center;
+    color: teal;
+    padding: 10px 0;
+}
+.H{
+    text-align: center;
+    font-size: 36px;
+    margin: 5px 0;
+}
+.Courses{
+    float: left;
+    height: 170px;
+    width: 150px;
+    background-color: thistle;
+    border-radius: 4px; 
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+.Courses .fab{
+    font-size: 40px;
+    color: teal;
+    margin-top: 30px;
+}
+
+.Courses .fas{
+    margin-top: 30px;
+}
+
+.Courses:hover{
+    background-color: rgba(150, 240, 150, 0.5);
+    color: white;
+}
+
+
+.container4{
+    background-image: url(img/img.jpg);
+    background-size: cover;
+    height: 300px;
+
+}
+
+.content4{
+    margin-left: 50px;
+    padding-top: 40px;
+    color: white;
+}
+
+.acadamy{
+    font-size: 26px;
+    font-weight: bold;
+}
+.H1{
+    font-size: 56px;
+}
+
+button{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 30px;
+    transition: 0.5s;
+}
+.btn{
+    padding: 10px 20px;
+    color: teal;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.btn2{
+    padding: 10px 20px;
+    color: teal;
+    font-weight: bold;
+    border: 1px solid white;
+}
+button:hover{
+    background-color: teal;
+    color: white;
+}
+
+
+
+.fottar{
+    height: 400px;
+    width: 100%;
+    background-color: lavender;
+    display: flex;
+}
+.main--fottar{
+    padding-top: 50px;
+    margin-left: 60px;
+    width: 20%;
+
+}
+h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+article{
+    color: teal;
+    margin-bottom: 40px;
+}
+p{
+    text-align: justify;
+}
+.fab{
+    color: teal;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top:20px;
+}
